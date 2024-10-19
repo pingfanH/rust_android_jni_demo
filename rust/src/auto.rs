@@ -1,3 +1,4 @@
+
 // #[no_mangle]
 // extern { 
 //     pub fn rust_greeting(to: *const c_char) -> *mut c_char;
@@ -22,15 +23,29 @@
 //     let mut env = vm.get_env().expect("Cannot get reference to the JNIEnv");
 //     let class_name = "top/pingfanh/jni/RustNative";
 //     let class = env.find_class(class_name).unwrap();
-
-//     register_native_methods!(env, class, {
-//         greeting => "(Ljava/lang/String;)Ljava/lang/String;",
-//         add => "(Ljava/lang/String;)Ljava/lang/String;",
-//     });
-
+// 
+//     let methods = [
+//         jni::NativeMethod {
+//             name: JNIString::from("greeting"),
+//             sig: JNIString::from("(Ljava/lang/String;)Ljava/lang/String;"),
+//             fn_ptr: greeting as *mut _,
+//         },
+//         jni::NativeMethod {
+//             name: JNIString::from("add"),
+//             sig: JNIString::from("(Ljava/lang/String;)Ljava/lang/String;"),
+//             fn_ptr: add as *mut _,
+//         },
+//         jni::NativeMethod {
+//             name: JNIString::from("fuck"),
+//             sig: JNIString::from("(Ljava/lang/String;)Ljava/lang/String;"),
+//             fn_ptr: fuck as *mut _,
+//         },
+//     ];
+//     env.register_native_methods(class, &methods).expect("Failed to register native methods");
+// 
 //     jni::sys::JNI_VERSION_1_6
 // }
-// #[no_mangle]
+//#[no_mangle]
 // pub extern "system" fn JNI_OnLoad(vm: jni::JavaVM, _reserved: *mut std::ffi::c_void) -> jni::sys::jint {
 //     let mut env = vm.get_env().expect("Cannot get reference to the JNIEnv");
 

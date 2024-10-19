@@ -7,7 +7,7 @@ plugins {
 
 //apply(plugin = "org.mozilla.rust-android-gradle.rust-android")
 //cargo{
-//    module="./rust"
 //    libname = "ping"
+//    module="./rust"
 //
 //}

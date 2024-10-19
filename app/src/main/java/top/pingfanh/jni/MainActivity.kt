@@ -20,7 +20,8 @@ class MainActivity : AppCompatActivity() {
         addButton.text = rustNative.add("click")
         val moveAnimation = AnimationUtils.loadAnimation(this, R.anim.move_animation)
         addButton.setOnClickListener {
-            addButton.text = rustNative.add(addButton.text as String)
+            binding.sampleText.text=rustNative.fuck1("you");
+            //addButton.text = rustNative.add(addButton.text as String)
             addButton.startAnimation(moveAnimation)
         }
     }

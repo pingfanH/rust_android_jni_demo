@@ -11,3 +11,8 @@ crate-type = ["cdylib"]
 
 [dependencies]
 jni = {version = '0.21.1'}
+#egui = {version = "0.29.1"}
+#eframe = "0.29.1"
+
+[build-dependencies]
+jni_helper={path = "jni_helper"}

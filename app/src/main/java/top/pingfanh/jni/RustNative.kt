@@ -1,5 +1,4 @@
 package top.pingfanh.jni
-
 class RustNative {
     companion object {
         init {
@@ -9,4 +8,5 @@ class RustNative {
 
     external fun greeting(string: String): String
     external fun add(string: String): String
+    external fun fuck(string: String): String
 }
