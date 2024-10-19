@@ -1,9 +1,0 @@
-D:\project\AndroidStudioProjects\jni_test\rust\win_test\target\debug\deps\libunicode_segmentation-e6f359d4d04614ff.rmeta: C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src/lib.rs C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\grapheme.rs C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\sentence.rs C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\word.rs C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\tables.rs
-
-D:\project\AndroidStudioProjects\jni_test\rust\win_test\target\debug\deps\unicode_segmentation-e6f359d4d04614ff.d: C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src/lib.rs C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\grapheme.rs C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\sentence.rs C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\word.rs C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\tables.rs
-
-C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src/lib.rs:
-C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\grapheme.rs:
-C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\sentence.rs:
-C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\word.rs:
-C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.12.0\src\tables.rs:

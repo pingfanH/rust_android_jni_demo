@@ -1,5 +1,0 @@
-D:\project\AndroidStudioProjects\jni_test\rust\win_test\target\debug\deps\windows_implement-03b933f6bde08b64.dll: C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-implement-0.58.0\src/lib.rs
-
-D:\project\AndroidStudioProjects\jni_test\rust\win_test\target\debug\deps\windows_implement-03b933f6bde08b64.d: C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-implement-0.58.0\src/lib.rs
-
-C:\Users\Pingfanh\.cargo\registry\src\index.crates.io-6f17d22bba15001f\windows-implement-0.58.0\src/lib.rs:
